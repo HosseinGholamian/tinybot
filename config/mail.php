@@ -4,12 +4,12 @@ return [
     'SMTP' => [
         'Host'       => 'smtp.gmail.com',
         'SMTPAuth'   => true,
-        'Username'   => 'gholamianhossein96@gmail.com',
-        'Password'   => 'admin@0024117536',
+        'Username'   => '',
+        'Password'   => '',
         'Port'       => 587,
         'setFrom'    => [
-            'mail'  =>  'amlak@amlak.com',
-            'name'  =>  'املاک'
+            'mail'  =>  '',
+            'name'  =>  ''
         ]
     ]
 ];
